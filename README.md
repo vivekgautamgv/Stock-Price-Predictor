@@ -14,12 +14,13 @@ Visualization: The model's predictions are plotted against the actual stock pric
 
 Libraries Used:
 
-pandas
-numpy
-yfinance
-matplotlib
-scikit-learn
-TensorFlow
+1.pandas
+2.numpy
+3.yfinance
+4.matplotlib
+5.scikit-learn
+6.TensorFlow
+
 Accuracy results
 For Apple : 93.717%
 For Microsoft : 92.23%
